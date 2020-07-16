@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">COVID-19 Patients Detection</string>
+    <string name="symptomsStr">Corona Symptoms</string>
+    <string name="callButtonStr">Call Ambulance</string>
+    <string name="sympthoms1">The Corona Virus (COVID-19) is legal for different people in different forms. Most people who contract it will begin moderately to moderately and will need to recover without hospitalization.</string>
+    <string name="sympthoms2">Most Common Symptoms:</string>
+    <string name="sympthoms3">Fever  Dry  Cough  Tiredness</string>
+    <string name="sympthoms4">Less common symptoms:</string>
+    <string name="sympthoms5">Pain \nSore throat \nDiarrhea \nEye conjunctivitis \nHeadache \nLoss of taste or smell \nSkin rash or change of fingers or hands or feet</string>
+    <string name="sympthoms6">Severe symptoms:</string>
+    <string name="sympthoms7">Difficulty breathing or shortness of breath \nPain or chest pain \nLoss of speech or movement ability</string>
+    <string name="sympthoms8">From the time of the infection to the onset of symptoms, it takes 5-6 days on average, but this process can also take up to 14 days.</string>
+    <string name="nameStr">Full Name:</string>
+    <string name="idStr">ID:</string>
+    <string name="addressStr">Address:</string>
+    <string name="phoneStr">Phone Number:</string>
+    <string name="symptomesFillStr">Symptomes:</string>
+    <string name="feverStr">Fever</string>
+    <string name="coughStr">Cough</string>
+    <string name="soreStr">Sore throat</string>
+    <string name="tiredStr">Tiredness</string>
+    <string name="chestStr">Chest pain</string>
+    <string name="messageFinishStr">Your details were sent to an ambulance. Feel better!</string>
+    <string name="errorStr">Please fill all of the details.</string>
+</resources>

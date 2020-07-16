@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main_layout"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/background"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+
+        <ImageButton
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="15dp"
+            android:id="@+id/backBtn"
+            android:background="@drawable/backbutton"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="340dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/squarewriting"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:layout_width="150dp"
+                android:layout_height="70dp"
+                android:layout_marginBottom="10dp"
+                android:id="@+id/locationBtn"
+                android:background="@drawable/hebbuttonsendlocation">
+            </ImageButton>
+
+            <ImageButton
+                android:layout_width="150dp"
+                android:layout_height="70dp"
+                android:id="@+id/callBtn"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/hebbuttoncall">
+            </ImageButton>
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content">
+
+        <ImageButton
+            android:id="@+id/finishBtn"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:layout_marginTop="010dp"
+            android:layout_marginStart="15dp"
+            android:background="@drawable/hebfinishbutton">
+        </ImageButton>
+    </LinearLayout>
+</LinearLayout>

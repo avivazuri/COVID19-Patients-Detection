@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">COVID-19 Patients Detection</string>
+    <string name="symptomsStr">תסמיני הקורונה</string>
+    <string name="callButtonStr">הזמן את מד\"א</string>
+    <string name="sympthoms1">נגיף הקורונה (COVID-19) משפטי על אנשים שונים בצורות שונות. מרבית האנשים שנדבקים בו יחלו בצורה מתונה עד בינונית ויחלימו ללא צורך באשפוז.</string>
+    <string name="sympthoms2">התסמינים הנפוצים ביותר:</string>
+    <string name="sympthoms3">חום \nשיעול \nיבש \nעייפות</string>
+    <string name="sympthoms4">תסמינים נפוצים פחות:</string>
+    <string name="sympthoms5">כאבים \nכאב גרון \nשלשולים \nדלקת בלחמית העין \nכאב ראש \nאובדן חוש הטעם או הריח \nפריחה בעור או שינוי בגוון האצבעות בידיים או ברגליים</string>
+    <string name="sympthoms6">תסמינים חמורים:</string>
+    <string name="sympthoms7">קשיי נשימה או קוצר נשימה \nכאבים או לחץ בחזה \nאובדן יכולת הדיבור או התנועה</string>
+    <string name="sympthoms8">מרגע ההידבקות בנגיף ועד להופעת תסמינים חולפים 5-6 ימים בממוצע, אך תהליך זה יכול גם להימשך עד 14 ימים.</string>
+    <string name="nameStr">שם מלא:</string>
+    <string name="addressStr">כתובת הבית:</string>
+    <string name="idStr">תעודת זהות:</string>
+    <string name="phoneStr">טלפון נייד:</string>
+    <string name="symptomesFillStr">תסמינים:</string>
+    <string name="feverStr">חום</string>
+    <string name="coughStr">שיעול</string>
+    <string name="soreStr">כאב גרון</string>
+    <string name="tiredStr">עייפות</string>
+    <string name="chestStr">כאבים בחזה</string>
+    <string name="messageFinishStr">הפרטים שלך נשלחו למד\"א. תרגיש טוב!</string>
+    <string name="errorStr">נא מלא את כל הפרטים.</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main_layout"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/background"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="300dp"
+        android:layout_height="140dp"
+        android:layout_gravity="center"
+        android:layout_margin="30dp"
+        android:background="@drawable/logo"/>
+
+    <Button
+        android:id="@+id/symptomsButton"
+        android:layout_marginTop="130dp"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:text="@string/symptomsStr"
+        android:textColor="@color/colorAccent"
+        android:textAllCaps="false"
+        android:background="@drawable/button"/>
+
+    <Button
+        android:id="@+id/callButton"
+        android:layout_marginTop="30dp"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:text="@string/callButtonStr"
+        android:textColor="@color/colorAccent"
+        android:textAllCaps="false"
+        android:background="@drawable/button"/>
+
+</LinearLayout>
