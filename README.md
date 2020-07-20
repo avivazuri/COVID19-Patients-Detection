@@ -1,5 +1,5 @@
 # **COVID19-Patients-Detection**
-## **Developed for Android in Java (using Android Studio)**
+## **Android application in Java (using Android Studio)**
 ### **• Screenshots  •**
 ![1](https://user-images.githubusercontent.com/57150148/87918408-0e6e7a00-ca7f-11ea-9efd-5b19ec4ae697.PNG)
 ![2](https://user-images.githubusercontent.com/57150148/87918411-0e6e7a00-ca7f-11ea-83a7-7f74a80d153a.PNG)
